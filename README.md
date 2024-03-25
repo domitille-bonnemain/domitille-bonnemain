@@ -1,9 +1,9 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
- <h3 align="left"> The most used technologies : </h3>
+  <h3 align="left"> Most used technologies :  </h3>
   
-  <table>
+  <table style="background-color: #FFFFFF;">
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/></td>
@@ -18,6 +18,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
