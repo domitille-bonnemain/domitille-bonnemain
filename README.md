@@ -1,7 +1,7 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 
-### Main Technologies
+###<h3 Main Technologies </h3>
 
 | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
 |---|---|---|---|
