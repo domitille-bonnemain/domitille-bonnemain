@@ -1,11 +1,17 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 
-<h3>Main technologies</h3>
+<h3 align="center">Main Technologies</h3>
 
-| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
-|---|---|---|
-| Java | Spring Boot | MySQL |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+</p>
+
+<p align="center">Java | Spring Boot | MySQL | Node.js</p>
+
 
 
 
