@@ -1,7 +1,7 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
- <h3 align="left"> The most used technologies: </h3>
+ <h3 align="left"> The most used technologies : </h3>
   
   <table>
     <tr>
@@ -24,7 +24,7 @@
 
 
 
-<h3 align="left">Continuously honing my skills in web development through the use of:</h3>
+<h3 align="left">Continuously honing my skills in web development through the use of :</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
