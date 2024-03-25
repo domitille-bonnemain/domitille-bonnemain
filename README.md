@@ -1,7 +1,7 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
- <h3 align="left"> Main used technologies </h3>
+ <h3 align="left"> The most used technologies: </h3>
   
   <table>
     <tr>
