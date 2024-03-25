@@ -1,7 +1,7 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
 
-<h3 align="center">Main Technologies</h3>
+<p align="center">Main Technologies</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
