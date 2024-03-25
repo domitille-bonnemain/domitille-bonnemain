@@ -1,94 +1,23 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
-  <h3 style="text-align: center;">Utilisation des Technologies</h3>
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
+  <h3 align="left"> Most used technologies : </h3>
   
-  <div style="display: flex; justify-content: center;">
-    <div style="width: 300px; margin-right: 20px;">
-      <h4>Langages de Programmation</h4>
-      <canvas id="programming-languages-chart"></canvas>
-    </div>
-    <div style="width: 300px;">
-      <h4>Frameworks</h4>
-      <canvas id="frameworks-chart"></canvas>
-    </div>
-  </div>
+  <table style="background-color: #FFFFFF;">
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/></td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Spring Boot</td>
+      <td>MySQL</td>
+      <td>Node.js</td>
+    </tr>
+  </table>
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  // Données de test pour les graphiques
-  const programmingLanguagesData = {
-    labels: ['Java', 'JavaScript', 'Python', 'C#', 'C++'],
-    datasets: [{
-      label: 'Utilisation',
-      data: [50, 30, 20, 15, 10],
-      backgroundColor: [
-        'rgba(255, 99, 132, 0.2)',
-        'rgba(54, 162, 235, 0.2)',
-        'rgba(255, 206, 86, 0.2)',
-        'rgba(75, 192, 192, 0.2)',
-        'rgba(153, 102, 255, 0.2)',
-      ],
-      borderColor: [
-        'rgba(255, 99, 132, 1)',
-        'rgba(54, 162, 235, 1)',
-        'rgba(255, 206, 86, 1)',
-        'rgba(75, 192, 192, 1)',
-        'rgba(153, 102, 255, 1)',
-      ],
-      borderWidth: 1
-    }]
-  };
-
-  const frameworksData = {
-    labels: ['Spring Boot', 'React', 'Vue.js', 'Angular', 'Express.js'],
-    datasets: [{
-      label: 'Utilisation',
-      data: [40, 35, 25, 20, 15],
-      backgroundColor: [
-        'rgba(255, 99, 132, 0.2)',
-        'rgba(54, 162, 235, 0.2)',
-        'rgba(255, 206, 86, 0.2)',
-        'rgba(75, 192, 192, 0.2)',
-        'rgba(153, 102, 255, 0.2)',
-      ],
-      borderColor: [
-        'rgba(255, 99, 132, 1)',
-        'rgba(54, 162, 235, 1)',
-        'rgba(255, 206, 86, 1)',
-        'rgba(75, 192, 192, 1)',
-        'rgba(153, 102, 255, 1)',
-      ],
-      borderWidth: 1
-    }]
-  };
-
-  // Création des graphiques
-  const programmingLanguagesChart = new Chart(document.getElementById('programming-languages-chart'), {
-    type: 'bar',
-    data: programmingLanguagesData,
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true
-        }
-      }
-    }
-  });
-
-  const frameworksChart = new Chart(document.getElementById('frameworks-chart'), {
-    type: 'bar',
-    data: frameworksData,
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true
-        }
-      }
-    }
-  });
-</script>
 
 
 
