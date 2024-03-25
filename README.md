@@ -1,11 +1,24 @@
  <h3 align="left"> Hi, everyone!👋</h3>
 
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
+ <h3 align="left"> Main used technologies </h3>
+  
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/></td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Spring Boot</td>
+      <td>MySQL</td>
+      <td>Node.js</td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left"> Main Technologies </h3>
-
-| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
-|---|---|---|---|
-| Java | Spring Boot | MySQL | Node.js |
 
 
 
