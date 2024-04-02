@@ -1,4 +1,4 @@
- <h3 align="left"> Hi, there!👋 </h3>
+ <h3 align="left"> Hi, there👋 </h3>
 
 <!--<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
   <h3 align="left"> Most used technologies : </h3>
