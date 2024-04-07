@@ -1,5 +1,5 @@
  <h3 align="left"> Hi there👋 </h3>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=domitille-bonnemain)](https://github.com/domitille-bonnemain/github-readme-activity-graph)
+
 
 
 <!--<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
