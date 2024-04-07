@@ -1,5 +1,5 @@
  <h3 align="left"> Hi there👋 </h3>
- [![Domitille's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=domitille-bonnemain)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ (https://github-readme-activity-graph.vercel.app/graph?username=domitille-bonnemain)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
