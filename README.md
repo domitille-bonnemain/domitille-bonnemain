@@ -4,7 +4,7 @@
 
 
 <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
-  <h3 align="left"> Most used technologies : </h3>
+  <h3 align="left"> Most used technologies that I continue to learn: </h3>
   
   <table style="background-color: #FFFFFF;">
     <tr>
