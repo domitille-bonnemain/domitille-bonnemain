@@ -3,8 +3,7 @@
 
 
 
-
-<!--<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
   <h3 align="left"> Most used technologies : </h3>
   
   <table style="background-color: #FFFFFF;">
@@ -72,7 +71,7 @@
   </a>
 
 
-</p>-->
+</p>
 
 
 
