@@ -3,7 +3,7 @@
 
 
 
-<!--<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
   <h3 align="left"> Most used technologies that I continue to learn : </h3>
   
   <table style="background-color: #FFFFFF;">
@@ -29,7 +29,7 @@
 
 
 
-<h3 align="left">Refining web development skills through :</h3>
+<!--<h3 align="left">Refining web development skills through :</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
