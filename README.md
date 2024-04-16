@@ -3,7 +3,7 @@
 
 
 
-<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
+<!--<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
   <h3 align="left"> Most used technologies that I continue to learn : </h3>
   
   <table style="background-color: #FFFFFF;">
@@ -20,7 +20,7 @@
       <td>Node.js</td>
     </tr>
   </table>
-</div>
+</div>-->
 
 
 
